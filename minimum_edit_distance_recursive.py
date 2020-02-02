@@ -1,12 +1,12 @@
 
-def minimum_edit_distance(i, j, A, B):
-    if i == 0:
-        return j
-    if j == 0:
-        return i
-    return min(minimum_edit_distance(i - 1, j, A, B) + 1,
-               minimum_edit_distance(i, j - 1, A, B) + 1,
-               minimum_edit_distance(i - 1, j - 1, A, B) + (A[i - 1] != B[j - 1]))
+def minimum_edit_distance(n, m, A, B):
+    if n == 0:
+        return m
+    if m == 0:
+        return n
+    return min(minimum_edit_distance(n - 1, m, A, B) + 1,
+               minimum_edit_distance(n, m - 1, A, B) + 1,
+               minimum_edit_distance(n - 1, m - 1, A, B) + (A[n - 1] != B[m - 1]))
 
 
 def unit_tests():
