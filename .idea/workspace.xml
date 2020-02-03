@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4be793b-370d-4dcf-ac05-90e7e55e3d79" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/minimum_edit_distance_recursive.py" beforeDir="false" afterPath="$PROJECT_DIR$/minimum_edit_distance_recursive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_of_common_misspellings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/list_of_common_misspellings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minmum_edit_distance_DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/minmum_edit_distance_DP.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.minimum_edit_distance_recursive">
+  <component name="RunManager" selected="Python.minmum_edit_distance_DP">
     <configuration name="minimum_edit_distance_recursive" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="MinimumEditDistance" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +103,7 @@
       <updated>1580441819486</updated>
       <workItem from="1580441829468" duration="2699000" />
       <workItem from="1580444540361" duration="4052000" />
-      <workItem from="1580675334562" duration="3334000" />
+      <workItem from="1580675334562" duration="16642000" />
     </task>
     <servers />
   </component>
@@ -122,7 +124,7 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MinimumEditDistance$minmum_edit_distance_DP.coverage" NAME="minmum_edit_distance_DP Coverage Results" MODIFIED="1580679519948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MinimumEditDistance$minimum_edit_distance_recursive.coverage" NAME="minimum_edit_distance_recursive Coverage Results" MODIFIED="1580679832443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MinimumEditDistance$minmum_edit_distance_DP.coverage" NAME="minmum_edit_distance_DP Coverage Results" MODIFIED="1580697029331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
